@@ -5,6 +5,7 @@ tmp.cpp
 test/
 ea_iid
 ea_non_iid
+ea_restart
 chi_test
 lrs_test
 most_common_test

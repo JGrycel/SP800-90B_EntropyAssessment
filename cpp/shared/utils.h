@@ -20,6 +20,7 @@
 #define SWAP(x, y) do { int s = x; x = y; y = s; } while(0)
 
 #define MIN_SIZE 1000000
+#define SIZE 1000000
 #define PERMS 10000
 
 typedef unsigned char byte;
